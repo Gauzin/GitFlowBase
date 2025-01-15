@@ -20,6 +20,9 @@ public class HomeController : Controller
 
     public IActionResult Privacy()
     {
+
+        //MAJ Felix BG
+        //Salut
         return View();
     }
 
