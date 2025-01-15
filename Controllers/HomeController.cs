@@ -22,6 +22,7 @@ public class HomeController : Controller
     {
         //MAJ Felix BG
         //Salut
+        //Bonjour
         return View();
     }
 
